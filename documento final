@@ -1,0 +1,21 @@
+Gerador de Crachá Virtual
+
+Sobre o projeto
+
+Este projeto foi desenvolvido com o objetivo de praticar os conceitos básicos de JavaScript, criando um programa que recolhe algumas informações do utilizador e as utiliza para gerar um crachá virtual.
+
+Como funciona?
+
+Ao iniciar o programa, o utilizador informa o seu nome, sobrenome e ano de nascimento. Em seguida, responde se é aluno ativo da instituição.
+
+Com essas informações, o programa calcula a idade estimada, transforma o sobrenome em letras maiúsculas, conta as letras do primeiro nome e mostra todos os dados na consola, seguindo o modelo de um crachá virtual.
+
+Tecnologias utilizadas
+
+* HTML5, para a estrutura da página;
+* JavaScript, para recolher e processar as informações;
+* Git e GitHub, para organizar o código e permitir o trabalho em equipa.
+
+Objetivo de aprendizagem
+
+Com este projeto, colocamos em prática o uso de variáveis, os comandos prompt() e confirm(), a conversão de valores com Number(), além de métodos e propriedades como .toUpperCase() e .length. Também aprendemos a trabalhar em grupo utilizando branches, commits e Pull Requests no GitHub.
